@@ -10,3 +10,7 @@ This project exploredthe idea of "Dog Noseprint Recognition and Localization", u
 ![image](https://user-images.githubusercontent.com/56618776/111267986-0ac3df00-8670-11eb-9803-e02405eb3c69.png)
 
 ![image](https://user-images.githubusercontent.com/56618776/111268159-478fd600-8670-11eb-9b11-0509a098575f.png)
+
+### Visualization of Maximum Activations of Convolution Layers
+![image](https://user-images.githubusercontent.com/56618776/111269214-a43fc080-8671-11eb-872e-7890ee68513e.png)
+
