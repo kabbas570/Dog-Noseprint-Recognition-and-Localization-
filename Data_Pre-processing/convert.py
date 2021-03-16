@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-csv_path=('/home/user01/data_ssd/Abbas/Dog1/dog-export.csv')
+csv_path=('/home/user01/data_ssd/Abbas/dog4/dog-export.csv')
 vott_df = pd.read_csv(csv_path)
 #print(vott_df)
 labels = vott_df["label"].unique()
@@ -8,7 +8,7 @@ labels = vott_df["label"].unique()
 labeldict = dict(zip(labels, range(len(labels))))
 vott_df.drop_duplicates(subset=None, keep="first", inplace=True)
 #print(labeldict)
-path='/home/user01/data_ssd/Abbas/Dog1/'
+path='/home/user01/data_ssd/Abbas/dog4/'
 def convert_vott_csv_to_yolo(
     vott_df,
     labeldict,
