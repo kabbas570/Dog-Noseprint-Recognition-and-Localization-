@@ -9,3 +9,4 @@ This project exploredthe idea of "Dog Noseprint Recognition and Localization", u
 ### Proposed Architecture 
 ![image](https://user-images.githubusercontent.com/56618776/111267986-0ac3df00-8670-11eb-9803-e02405eb3c69.png)
 
+![image](https://user-images.githubusercontent.com/56618776/111268159-478fd600-8670-11eb-9b11-0509a098575f.png)
